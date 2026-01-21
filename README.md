@@ -5,7 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-A modern, immersive website for **HIZE 2026** - IEEE Computer Society's flagship initiative bringing together innovation, technology, and academic excellence. Built with cutting-edge web technologies featuring a stunning claymorphic design with particle effects and smooth animations.
+A modern, immersive website for **[HIZE 2026 - High Impact Zonal Events](https://hize2026.ieeecssrm.in/)** - IEEE Computer Society's flagship initiative bringing together innovation, technology, and academic excellence. Built with cutting-edge web technologies featuring a stunning claymorphic design with particle effects and smooth animations.
 
 ## 📋 Table of Contents
 
@@ -21,7 +21,7 @@ A modern, immersive website for **HIZE 2026** - IEEE Computer Society's flagship
 
 ## 🎯 About
 
-HIZE 2026 is a flagship IEEE Computer Society initiative organized in collaboration with **SRM Institute of Science & Technology**. The event features:
+**[HIZE 2026 - High Impact Zonal Events](https://hize2026.ieeecssrm.in/)** is a flagship IEEE Computer Society initiative organized in collaboration with **SRM Institute of Science & Technology**. The event features:
 
 - 🎓 Hackathons
 - 💡 Workshops
