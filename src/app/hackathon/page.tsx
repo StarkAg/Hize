@@ -128,7 +128,7 @@ export default function HackathonPage() {
                             className="mt-8 flex flex-wrap justify-center gap-4"
                         >
                             <HudPill icon={Calendar} text="JAN 29-30" delay={0.6} />
-                            <HudPill icon={Clock} text="48 HOURS" delay={0.7} />
+                            <HudPill icon={Clock} text="24 HOURS" delay={0.7} />
                             <HudPill icon={MapPin} text="SRM IST" delay={0.8} />
                         </motion.div>
 
